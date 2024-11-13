@@ -1,4 +1,5 @@
-# An example how to run chromium browser with extension in headless mode.
+# An example on how to run chromium browser with extension in headless mode.
+
 ### Run:
 > npx playwright test
 
